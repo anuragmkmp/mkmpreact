@@ -1,5 +1,6 @@
 {
-  "name": "mkmp",
+  "name": "mkmpreact",
+  "homepage": "https://bscitcs.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
